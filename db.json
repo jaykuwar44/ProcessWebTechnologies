@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Ram Vir",
+      "phone": 7864866543,
+      "email": "ram@41gmail.com",
+      "address": "Nandurbar"
+    },
+    {
+      "id": 2,
+      "name": "Sachin Kumavat",
+      "phone": 7886095643,
+      "email": "sachin@14gmail.com",
+      "address": "Jalgoan"
+    },
+    {
+      "id": 3,
+      "name": "Akshay More",
+      "phone": 9848665390,
+      "email": "aksha@13gmail.com",
+      "address": "Pune"
+    }
+  ]
+}
